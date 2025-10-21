@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bhavyasri Dasari"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "About"
+        file: about.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

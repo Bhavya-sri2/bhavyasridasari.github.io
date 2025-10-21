@@ -1,0 +1,22 @@
+---
+title: "About"
+---
+
+# About Me
+
+I’m Bhavyasri Dasari, a results-driven **Data Analyst in training** with a strong passion for using data to uncover stories, solve problems, and guide decision-making.  
+
+🎓 **Education**  
+- M.S. Data Analytics Engineering, George Mason University — *Expected May 2026*  
+- B.Tech Computer Science and Engineering — 2024  
+
+🧠 **Technical Skills**  
+Python (pandas, matplotlib, scikit-learn)  |  R (tidyverse, ggplot2)  |  SQL  |  Power BI  |  Excel  |  Data Visualization & Modeling  
+
+✨ **Interests**  
+- Healthcare Analytics  
+- Predictive Modeling & Machine Learning  
+- Business Intelligence Dashboarding  
+
+🤝 **Goal**  
+To join a forward-thinking organization where I can apply analytics, automation, and storytelling to create measurable impact.  

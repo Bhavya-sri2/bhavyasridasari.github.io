@@ -1,0 +1,50 @@
+---
+title: "Home"
+---
+
+# Hi, I’m Bhavyasri 👋  
+
+I’m a **Data Analytics Engineer** pursuing my M.S. in Data Analytics Engineering at **George Mason University (graduating May 2026)**.  
+I specialize in using **SQL, Python/R, Power BI, and Excel** to uncover insights, create visual stories, and guide strategic decisions.  
+
+💡 **What I do best**  
+- Clean and analyze data to extract meaningful patterns.  
+- Build dashboards and KPIs for clear business reporting.  
+- Develop predictive models using Python or R for better forecasting.  
+- Communicate results through data storytelling and visuals.  
+
+---
+
+## 🌟 Recent Projects
+
+<div class="grid grid-2">
+
+<div class="card">
+  <div class="card-body">
+    <h3 class="card-title">E-Commerce Sales Insights (SQL)</h3>
+    <p>Analyzed sales and customer data using SQL queries to identify revenue trends and retention drivers.</p>
+    <p><strong>Tools:</strong> MySQL, Power BI</p>
+    <p><a href="projects.html#ecommerce-sql">View full project →</a></p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h3 class="card-title">Healthcare Trends Analysis (Python/R)</h3>
+    <p>Performed exploratory data analysis and visualization to reveal seasonal admission patterns and LOS variations.</p>
+    <p><strong>Tools:</strong> Python/R, pandas/tidyverse</p>
+    <p><a href="projects.html#healthcare-eda">View full project →</a></p>
+  </div>
+</div>
+
+</div>
+
+---
+
+## ✨ More About Me
+Driven by curiosity and creativity, I aim to bridge data and decision-making through analytics.  
+When I’m not coding, you’ll find me exploring visualization design, mentoring peers, or photographing little everyday moments.
+
+
+📫 **Let’s Connect**  
+[LinkedIn](www.linkedin.com/in/bhavyasri-d-010001308) | bhavyadasari03@gmail.com

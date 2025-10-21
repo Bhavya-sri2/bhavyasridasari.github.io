@@ -1,0 +1,46 @@
+---
+title: "Projects"
+---
+
+# Featured Projects
+
+<div class="grid grid-2">
+
+<div class="card">
+  <div class="card-body">
+    <h3 class="card-title">Healthcare Trends Analysis</h3>
+    <p><strong>Tools:</strong> Python (pandas, matplotlib, seaborn) or R (tidyverse, ggplot2)</p>
+    <p>Cleaned and analyzed hospital admission data to identify readmission predictors and seasonal patterns, improving data-driven resource planning.</p>
+    <p><strong>Key Insight:</strong> Discovered seasonal admission spikes and longer average stays for emergency cases.</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h3 class="card-title">E-Commerce Sales Insights (SQL)</h3>
+    <p><strong>Tools:</strong> MySQL, Power BI</p>
+    <p>Built SQL queries to uncover regional revenue drivers and customer retention trends. Created a Power BI dashboard for leadership review.</p>
+    <p><strong>Key Insight:</strong> Top 20% of customers generated 70% of sales; automated KPI tracking for faster decision-making.</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h3 class="card-title">KNN vs Collaborative Filtering Recommender</h3>
+    <p><strong>Tools:</strong> Python (scikit-learn, pandas)</p>
+    <p>Implemented KNN and collaborative filtering algorithms for personalized product recommendations and compared performance metrics.</p>
+    <p><strong>Key Insight:</strong> Hybrid CF reduced RMSE by 14% and improved Precision@10 for returning users.</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-body">
+    <h3 class="card-title">Business KPI Dashboard</h3>
+    <p><strong>Tools:</strong> Power BI, Excel Power Query</p>
+    <p>Developed a clean executive dashboard tracking revenue, margin, and growth with automated Power Query data refreshes.</p>
+    <p><strong>Key Insight:</strong> Cut manual reporting time by 60 % and highlighted region-wise growth opportunities.</p>
+  </div>
+</div>
+
+</div>
+

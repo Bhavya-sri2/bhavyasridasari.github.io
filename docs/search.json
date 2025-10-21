@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Featured Projects\n\n\n\n&lt;h3 class=\"card-title\"&gt;Healthcare Trends Analysis&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Python (pandas, matplotlib, seaborn) or R (tidyverse, ggplot2)&lt;/p&gt;\n&lt;p&gt;Cleaned and analyzed hospital admission data to identify readmission predictors and seasonal patterns, improving data-driven resource planning.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Insight:&lt;/strong&gt; Discovered seasonal admission spikes and longer average stays for emergency cases.&lt;/p&gt;\n\n\n\n\n&lt;h3 class=\"card-title\"&gt;E-Commerce Sales Insights (SQL)&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; MySQL, Power BI&lt;/p&gt;\n&lt;p&gt;Built SQL queries to uncover regional revenue drivers and customer retention trends. Created a Power BI dashboard for leadership review.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Insight:&lt;/strong&gt; Top 20% of customers generated 70% of sales; automated KPI tracking for faster decision-making.&lt;/p&gt;\n\n\n\n\n&lt;h3 class=\"card-title\"&gt;KNN vs Collaborative Filtering Recommender&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Python (scikit-learn, pandas)&lt;/p&gt;\n&lt;p&gt;Implemented KNN and collaborative filtering algorithms for personalized product recommendations and compared performance metrics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Insight:&lt;/strong&gt; Hybrid CF reduced RMSE by 14% and improved Precision@10 for returning users.&lt;/p&gt;\n\n\n\n\n&lt;h3 class=\"card-title\"&gt;Business KPI Dashboard&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Power BI, Excel Power Query&lt;/p&gt;\n&lt;p&gt;Developed a clean executive dashboard tracking revenue, margin, and growth with automated Power Query data refreshes.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Key Insight:&lt;/strong&gt; Cut manual reporting time by 60 % and highlighted region-wise growth opportunities.&lt;/p&gt;"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About Me\nI’m Bhavyasri Dasari, a results-driven Data Analyst in training with a strong passion for using data to uncover stories, solve problems, and guide decision-making.\n🎓 Education\n- M.S. Data Analytics Engineering, George Mason University — Expected May 2026\n- B.Tech Computer Science and Engineering — 2024\n🧠 Technical Skills\nPython (pandas, matplotlib, scikit-learn) | R (tidyverse, ggplot2) | SQL | Power BI | Excel | Data Visualization & Modeling\n✨ Interests\n- Healthcare Analytics\n- Predictive Modeling & Machine Learning\n- Business Intelligence Dashboarding\n🤝 Goal\nTo join a forward-thinking organization where I can apply analytics, automation, and storytelling to create measurable impact."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a Data Analytics Engineer pursuing my M.S. in Data Analytics Engineering at George Mason University (graduating May 2026).\nI specialize in using SQL, Python/R, Power BI, and Excel to uncover insights, create visual stories, and guide strategic decisions.\n💡 What I do best\n- Clean and analyze data to extract meaningful patterns.\n- Build dashboards and KPIs for clear business reporting.\n- Develop predictive models using Python or R for better forecasting.\n- Communicate results through data storytelling and visuals.\n\n\n\n\n\n\n&lt;h3 class=\"card-title\"&gt;E-Commerce Sales Insights (SQL)&lt;/h3&gt;\n&lt;p&gt;Analyzed sales and customer data using SQL queries to identify revenue trends and retention drivers.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; MySQL, Power BI&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"projects.html#ecommerce-sql\"&gt;View full project →&lt;/a&gt;&lt;/p&gt;\n\n\n\n\n&lt;h3 class=\"card-title\"&gt;Healthcare Trends Analysis (Python/R)&lt;/h3&gt;\n&lt;p&gt;Performed exploratory data analysis and visualization to reveal seasonal admission patterns and LOS variations.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Python/R, pandas/tidyverse&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"projects.html#healthcare-eda\"&gt;View full project →&lt;/a&gt;&lt;/p&gt;\n\n\n\n\n\n\n\nDriven by curiosity and creativity, I aim to bridge data and decision-making through analytics.\nWhen I’m not coding, you’ll find me exploring visualization design, mentoring peers, or photographing little everyday moments.\n📫 Let’s Connect\nLinkedIn | bhavyadasari03@gmail.com"
+  },
+  {
+    "objectID": "index.html#recent-projects",
+    "href": "index.html#recent-projects",
+    "title": "Home",
+    "section": "",
+    "text": "&lt;h3 class=\"card-title\"&gt;E-Commerce Sales Insights (SQL)&lt;/h3&gt;\n&lt;p&gt;Analyzed sales and customer data using SQL queries to identify revenue trends and retention drivers.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; MySQL, Power BI&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"projects.html#ecommerce-sql\"&gt;View full project →&lt;/a&gt;&lt;/p&gt;\n\n\n\n\n&lt;h3 class=\"card-title\"&gt;Healthcare Trends Analysis (Python/R)&lt;/h3&gt;\n&lt;p&gt;Performed exploratory data analysis and visualization to reveal seasonal admission patterns and LOS variations.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Python/R, pandas/tidyverse&lt;/p&gt;\n&lt;p&gt;&lt;a href=\"projects.html#healthcare-eda\"&gt;View full project →&lt;/a&gt;&lt;/p&gt;"
+  },
+  {
+    "objectID": "index.html#more-about-me",
+    "href": "index.html#more-about-me",
+    "title": "Home",
+    "section": "",
+    "text": "Driven by curiosity and creativity, I aim to bridge data and decision-making through analytics.\nWhen I’m not coding, you’ll find me exploring visualization design, mentoring peers, or photographing little everyday moments.\n📫 Let’s Connect\nLinkedIn | bhavyadasari03@gmail.com"
+  }
+]
